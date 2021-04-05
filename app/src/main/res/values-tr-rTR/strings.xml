@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talhi Hesap makinesi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Merhaba</string>
+    <string name="splash_app_head">Talhi Hesap makinesi</string>
+    <string name="lets_go">hesaplamaya başla</string>
+    <string name="ChangeLang">Dili değiştir</string>
+    <string name="Convert">Çevirmek</string>
+
+    <string-array name="length">
+        <item>Milimetre</item>
+        <item>Santimetre</item>
+        <item>Metere</item>
+        <item>Kilometere</item>
+        <item>Mil</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>Sq. Milimetere</item>
+        <item>Sq. Santimetere</item>
+        <item>Sq. Metere</item>
+        <item>Sq. Kilometere</item>
+        <item>Sq. Mil</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>Mililitere</item>
+        <item>Litere</item>
+        <item>ABD Sıvı onsu</item>
+        <item>ABD Quart</item>
+        <item>ABD Gallon</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Karat</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Milisaniye</item>
+        <item>Saniye</item>
+        <item>Dakika</item>
+        <item>Saat</item>
+        <item>Gün</item>
+    </string-array>
+
+    <string name="length_heading">Uzunluk</string>
+    <string name="area_heading">Alan</string>
+    <string name="volume_heading">Ses</string>
+    <string name="temperature_heading">Sicaklik</string>
+    <string name="weight_heading">Ağırlık</string>
+    <string name="time_heading">Zaman</string>
+
+    <string name="copyright_company">©TVZ|2021</string>
+</resources>

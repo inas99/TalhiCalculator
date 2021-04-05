@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الالة الحاسبة</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">مرحبا</string>
+    <string name="splash_app_head">الالة الحاسبة</string>
+    <string name="lets_go">ابدأ الحساب</string>
+    <string name="ChangeLang">تغيير اللغة</string>
+    <string name="Convert">تحويل</string>
+    <string-array name="length">
+        <item>مليمتر</item>
+        <item>سنتيمتر</item>
+        <item>متر</item>
+        <item>كيلومتر</item>
+        <item>ميل</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>سيليسيوس</item>
+        <item>كلفن</item>
+        <item>فهرنهايت</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>سكوير. مليمتر</item>
+        <item>سكوير. سنتيمتر</item>
+        <item>سكوير. متر</item>
+        <item>سكوير. كيلومتر</item>
+        <item>سكوير. ميل</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>مليمتر</item>
+        <item>لتر</item>
+        <item>أونصة سائلة أمريكية</item>
+        <item>أمريكية كوارت</item>
+        <item>أمريكية جالون</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>غرام</item>
+        <item>كيلوغرام</item>
+        <item>جنيه</item>
+        <item>أوقية</item>
+        <item>قيراط</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>ميلي ثانية</item>
+        <item> ثانية</item>
+        <item>دقيقة</item>
+        <item>ساعة</item>
+        <item>يوم</item>
+    </string-array>
+
+    <string name="length_heading">طول</string>
+    <string name="area_heading">مساحة</string>
+    <string name="volume_heading">حجم</string>
+    <string name="temperature_heading">درجة الحرارة</string>
+    <string name="weight_heading">وزن</string>
+    <string name="time_heading">زمن</string>
+
+    <string name="copyright_company">©TVZ|2021</string>
+</resources>

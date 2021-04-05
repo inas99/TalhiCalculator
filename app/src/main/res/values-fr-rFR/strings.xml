@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talhi Calcul</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Salut</string>
+    <string name="splash_app_head">Talhi Calculatrice</string>
+    <string name="lets_go">Commencer le calcul</string>
+    <string name="ChangeLang">Changer la langue</string>
+    <string name="Convert">Convertir</string>
+    <string-array name="length">
+        <item>Millimètre</item>
+        <item>Centimètre</item>
+        <item>Mètre</item>
+        <item>Kilomètre</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>Sq. Millimètre</item>
+        <item>Sq. Centimètre</item>
+        <item>Sq. Mètre</item>
+        <item>Sq. Kilomètre</item>
+        <item>Sq. Mile</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>Millimètre</item>
+        <item>Litre</item>
+        <item>Once liquide américaine</item>
+        <item>Quart américain</item>
+        <item>Gallon américain</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Gramme</item>
+        <item>Kilogramme</item>
+        <item>Pound</item>
+        <item>Once</item>
+        <item>Carat</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Milliseconde</item>
+        <item>Seconde</item>
+        <item>Minute</item>
+        <item>Heur</item>
+        <item>Jour</item>
+    </string-array>
+
+    <string name="length_heading">Longueur</string>
+    <string name="area_heading">Surface</string>
+    <string name="volume_heading">Volume</string>
+    <string name="temperature_heading">Température</string>
+    <string name="weight_heading">Poids</string>
+    <string name="time_heading">Temp</string>
+
+    <string name="copyright_company">©TVZ|2021</string>
+</resources>

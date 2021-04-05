@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talhi Calculadora</string>
+
+    <string name="hello_blank_fragment">Hola</string>
+    <string name="splash_app_head">Talhi Calculadora</string>
+    <string name="lets_go">Empezar a calcular</string>
+    <string name="ChangeLang">Cambiar idioma</string>
+    <string name="Convert">Traducir</string>
+    <string-array name="length">
+        <item>Milímetro</item>
+        <item>Centímetro</item>
+        <item>Metro</item>
+        <item>Kilómetro</item>
+        <item>Milla</item>
+    </string-array>
+
+    <string-array name="temperature">
+        <item>Celcius</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>Sq. Milímetro</item>
+        <item>Sq. Centímetro</item>
+        <item>Sq. Metro</item>
+        <item>Sq. Kilómetro</item>
+        <item>Sq. Milla</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>Milímetro</item>
+        <item>Litro</item>
+        <item>US Onza líquida</item>
+        <item>US Cuarto de galón</item>
+        <item>US Galón</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Gramo</item>
+        <item>Kilogramo</item>
+        <item>Garlito</item>
+        <item>Onza</item>
+        <item>Kilat</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Milisegundo</item>
+        <item>segundo</item>
+        <item>Minuto</item>
+        <item>Hora</item>
+        <item>Día</item>
+    </string-array>
+
+    <string name="length_heading">Longitud</string>
+    <string name="area_heading">Zona</string>
+    <string name="volume_heading">Volumen</string>
+    <string name="temperature_heading">Temperatura</string>
+    <string name="weight_heading">Peso</string>
+    <string name="time_heading">Tiempo</string>
+
+    <string name="copyright_company">©TVZ|2021</string></resources>
