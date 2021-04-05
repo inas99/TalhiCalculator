@@ -1,4 +1,5 @@
 # TalhiCalculator
+<img width="151" alt="ic_launcher_foreground 09 56 42" src="https://user-images.githubusercontent.com/38819284/113571268-be404380-961e-11eb-999f-31a6400fa701.png">
 
 
 ## Overview
